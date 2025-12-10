@@ -1,37 +1,37 @@
-\#A Manchester-Baby simulator and Assembler  
+#A Manchester-Baby simulator and Assembler  
 
-\## Compilation Command
+## Compilation Command
 
 To compile the complete system (Assembler + Simulator), use:
 
 g++ -std=c++11 Main.cpp Assembler.cpp Simulator.cpp -o baby
 
-\## Basic Usage
-\### Assembler Mode
+## Basic Usage
+### Assembler Mode
 
 ./baby -a program.asm program.bin
 
-\### Simulator Mode (Standard 32-line memory)
+### Simulator Mode (Standard 32-line memory)
 
 ./baby -s program.bin
 
-\### Simulator Mode (Extended 64-line memory)
+### Simulator Mode (Extended 64-line memory)
 
 ./baby -s program.bin -e
 
-\### Help
+### Help
 
 ./baby -h
 
-\## File Structure
+## File Structure
 
-\- `Main.cpp` - Program entry point and command-line interface
+- `Main.cpp` - Program entry point and command-line interface
 
-\- `Assembler.cpp` - Assembly to machine code translation
+- `Assembler.cpp` - Assembly to machine code translation
 
-\- `Simulator.cpp` - Manchester Baby hardware simulation
+- `Simulator.cpp` - Manchester Baby hardware simulation
 
-\- Corresponding header files (.h) - Class definitions
+- Corresponding header files (.h) - Class definitions
 
 
 
