@@ -1,6 +1,6 @@
-#A Manchester-Baby simulator and Assembler  
+# A Manchester-Baby simulator and Assembler  
 
-\Contributors: @Hao-xianmi @ikun1028-nobody @Thomaslai1 @WilliamBosman927
+Contributors: @Hao-xianmi @ikun1028-nobody @Thomaslai1 @WilliamBosman927
 
 ## Compilation Command
 
