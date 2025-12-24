@@ -41,4 +41,6 @@ g++ -std=c++11 Main.cpp Assembler.cpp Simulator.cpp -o baby
 
 \- GCC/G++ compiler with C++11 support
 
+Contributors: @Hao-xianmi @ikun1028-nobody @Thomaslai1 @WilliamBosman927
+
 
