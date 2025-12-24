@@ -1,5 +1,7 @@
 #A Manchester-Baby simulator and Assembler  
 
+\Contributors: @Hao-xianmi @ikun1028-nobody @Thomaslai1 @WilliamBosman927
+
 ## Compilation Command
 
 To compile the complete system (Assembler + Simulator), use:
@@ -41,6 +43,6 @@ g++ -std=c++11 Main.cpp Assembler.cpp Simulator.cpp -o baby
 
 \- GCC/G++ compiler with C++11 support
 
-Contributors: @Hao-xianmi @ikun1028-nobody @Thomaslai1 @WilliamBosman927
+
 
 
